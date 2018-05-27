@@ -30,7 +30,7 @@ Será dada preferência aos projectos que tiverem também:
 2. Blog - a comunidade ainda não tem um espaço onde os membros podem ver todos os eventos (e novidades) que já foram realizados ou que estão por realizar-se. Uma secção de blog seria útil para organizar melhor este aspecto.
 3. Clean Code - não se esqueça que é um projeto Open Source. O novo website deve ter código simples (bem comentado se necessário) para que outros desenvolvedores possam reusá-lo.
 
-##Critérios
+## Critérios
 Vencerá o website que:
 1. Cumprir com o maior número de requisitos (mínimos e opcionais);
 2. Tiver uma interface apelativa e uma boa experiência de utilizador.
